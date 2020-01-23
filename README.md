@@ -1,4 +1,4 @@
-# analyze-amazon-fires
+# analysis-amazon-fires
 Análise descritiva das queimadas na Amazônia e outras regiões do Brasil.
 #### Foram feitas análises: 
 * Do total de queimadas por estado.
