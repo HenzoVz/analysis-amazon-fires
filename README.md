@@ -7,4 +7,4 @@ Análise descritiva das queimadas na Amazônia e outras regiões do Brasil.
 * Verificação de outliers, foi visto que os outliers são os que ultrapassam o limite téorico superior (lts)
 #### obs: lti = -273.30175520744393, lts = 489.8880808969388.
 
-<img src=”heatmap.png”>
+![Screenshot from 2020-01-24 15-43-14](https://user-images.githubusercontent.com/28688721/73095967-812cdd00-3ec2-11ea-96b1-aced4466918f.png)
