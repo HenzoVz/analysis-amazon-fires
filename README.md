@@ -6,3 +6,5 @@ Análise descritiva das queimadas na Amazônia e outras regiões do Brasil.
 * Do total de queimadas por meses durante aquele ano.
 * Verificação de outliers, foi visto que os outliers são os que ultrapassam o limite téorico superior (lts)
 #### obs: lti = -273.30175520744393, lts = 489.8880808969388.
+
+<img src=”heatmap.png”>
